@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Reactjs, NextJs
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on Remix
+- 👯 I’m looking to collaborate on cool Project
 - 💬 I'm Frontend developer with 2+ years of experience in web applications
 - 📫 Please email me at talhafaroow33@gmail.com
 - ⚡ Fun fact: I do coding for FUN
@@ -30,7 +30,6 @@
  </br>
   
 <div align="left">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhafaroow33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhafaroow33&layout=compact&langs_count=7&theme=dark"/>
     
